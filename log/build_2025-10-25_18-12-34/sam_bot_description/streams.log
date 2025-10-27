@@ -1,0 +1,80 @@
+[0.005s] Invoking command in '/home/sam/colcon_ws/build/sam_bot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/sam/colcon_ws/src/sam_bot_description -DCMAKE_INSTALL_PREFIX=/home/sam/colcon_ws/install/sam_bot_description
+[0.142s] -- The C compiler identification is GNU 11.4.0
+[0.255s] -- The CXX compiler identification is GNU 11.4.0
+[0.272s] -- Detecting C compiler ABI info
+[0.418s] -- Detecting C compiler ABI info - done
+[0.431s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.432s] -- Detecting C compile features
+[0.433s] -- Detecting C compile features - done
+[0.438s] -- Detecting CXX compiler ABI info
+[0.576s] -- Detecting CXX compiler ABI info - done
+[0.591s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.592s] -- Detecting CXX compile features
+[0.593s] -- Detecting CXX compile features - done
+[0.597s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.158s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[1.269s] -- Found ament_lint_auto: 0.12.14 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.386s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[1.386s] -- Configured cppcheck include dirs: 
+[1.386s] -- Configured cppcheck exclude dirs and/or files: 
+[1.388s] -- Added test 'flake8' to check Python code syntax and style conventions
+[1.390s] -- Added test 'lint_cmake' to check CMake code style
+[1.392s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[1.401s] -- Added test 'uncrustify' to check C / C++ code style
+[1.401s] -- Configured uncrustify additional arguments: 
+[1.403s] -- Added test 'xmllint' to check XML markup files
+[1.404s] -- Configuring done
+[1.405s] -- Generating done
+[1.405s] -- Build files have been written to: /home/sam/colcon_ws/build/sam_bot_description
+[1.408s] Invoked command in '/home/sam/colcon_ws/build/sam_bot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/sam/colcon_ws/src/sam_bot_description -DCMAKE_INSTALL_PREFIX=/home/sam/colcon_ws/install/sam_bot_description
+[1.409s] Invoking command in '/home/sam/colcon_ws/build/sam_bot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/sam/colcon_ws/build/sam_bot_description -- -j20 -l20
+[1.454s] Invoked command in '/home/sam/colcon_ws/build/sam_bot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/sam/colcon_ws/build/sam_bot_description -- -j20 -l20
+[1.473s] Invoking command in '/home/sam/colcon_ws/build/sam_bot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/sam/colcon_ws/build/sam_bot_description
+[1.485s] -- Install configuration: ""
+[1.485s] -- Installing: /home/sam/colcon_ws/install/sam_bot_description/share/sam_bot_description/src
+[1.485s] -- Installing: /home/sam/colcon_ws/install/sam_bot_description/share/sam_bot_description/src/description
+[1.486s] -- Installing: /home/sam/colcon_ws/install/sam_bot_description/share/sam_bot_description/src/description/sam_bot_description.urdf
+[1.486s] -- Installing: /home/sam/colcon_ws/install/sam_bot_description/share/sam_bot_description/src/description/gazebo_control.xacro
+[1.486s] -- Installing: /home/sam/colcon_ws/install/sam_bot_description/share/sam_bot_description/src/description/camera.xacro
+[1.486s] -- Installing: /home/sam/colcon_ws/install/sam_bot_description/share/sam_bot_description/src/description/inertial_macros.xacro
+[1.486s] -- Installing: /home/sam/colcon_ws/install/sam_bot_description/share/sam_bot_description/src/description/robot_core.xacro
+[1.486s] -- Installing: /home/sam/colcon_ws/install/sam_bot_description/share/sam_bot_description/src/description/lidar.xacro
+[1.486s] -- Installing: /home/sam/colcon_ws/install/sam_bot_description/share/sam_bot_description/src/description/sam_bot_description.sdf
+[1.486s] -- Installing: /home/sam/colcon_ws/install/sam_bot_description/share/sam_bot_description/src/description/ros2_control.xacro
+[1.486s] -- Installing: /home/sam/colcon_ws/install/sam_bot_description/share/sam_bot_description/src/description/depth_camera.xacro
+[1.486s] -- Installing: /home/sam/colcon_ws/install/sam_bot_description/share/sam_bot_description/src/description/robot.urdf.xacro
+[1.487s] -- Installing: /home/sam/colcon_ws/install/sam_bot_description/share/sam_bot_description/launch
+[1.487s] -- Installing: /home/sam/colcon_ws/install/sam_bot_description/share/sam_bot_description/launch/display.launch.py
+[1.487s] -- Installing: /home/sam/colcon_ws/install/sam_bot_description/share/sam_bot_description/launch/test.launch.py
+[1.487s] -- Installing: /home/sam/colcon_ws/install/sam_bot_description/share/sam_bot_description/launch/joystick.launch.py
+[1.487s] -- Installing: /home/sam/colcon_ws/install/sam_bot_description/share/sam_bot_description/launch/launch_sim.launch.py
+[1.487s] -- Installing: /home/sam/colcon_ws/install/sam_bot_description/share/sam_bot_description/launch/rsp.launch.py
+[1.487s] -- Installing: /home/sam/colcon_ws/install/sam_bot_description/share/sam_bot_description/rviz
+[1.487s] -- Installing: /home/sam/colcon_ws/install/sam_bot_description/share/sam_bot_description/rviz/config.rviz
+[1.488s] -- Installing: /home/sam/colcon_ws/install/sam_bot_description/share/sam_bot_description/config
+[1.488s] -- Installing: /home/sam/colcon_ws/install/sam_bot_description/share/sam_bot_description/config/twist_mux.yaml
+[1.488s] -- Installing: /home/sam/colcon_ws/install/sam_bot_description/share/sam_bot_description/config/my_controllers.yaml
+[1.488s] -- Installing: /home/sam/colcon_ws/install/sam_bot_description/share/sam_bot_description/config/joystick.yaml
+[1.488s] -- Installing: /home/sam/colcon_ws/install/sam_bot_description/share/sam_bot_description/config/ekf.yaml
+[1.488s] -- Installing: /home/sam/colcon_ws/install/sam_bot_description/share/sam_bot_description/config/mapper_params_online_async.yaml
+[1.488s] -- Installing: /home/sam/colcon_ws/install/sam_bot_description/share/sam_bot_description/world
+[1.488s] -- Installing: /home/sam/colcon_ws/install/sam_bot_description/share/sam_bot_description/world/ida_world
+[1.488s] -- Installing: /home/sam/colcon_ws/install/sam_bot_description/share/sam_bot_description/world/my_world.world
+[1.488s] -- Installing: /home/sam/colcon_ws/install/sam_bot_description/share/sam_bot_description/world/my_world.sdf
+[1.489s] -- Installing: /home/sam/colcon_ws/install/sam_bot_description/share/sam_bot_description/world/model.sdf
+[1.489s] -- Installing: /home/sam/colcon_ws/install/sam_bot_description/share/ament_index/resource_index/package_run_dependencies/sam_bot_description
+[1.489s] -- Installing: /home/sam/colcon_ws/install/sam_bot_description/share/ament_index/resource_index/parent_prefix_path/sam_bot_description
+[1.489s] -- Installing: /home/sam/colcon_ws/install/sam_bot_description/share/sam_bot_description/environment/ament_prefix_path.sh
+[1.489s] -- Installing: /home/sam/colcon_ws/install/sam_bot_description/share/sam_bot_description/environment/ament_prefix_path.dsv
+[1.489s] -- Installing: /home/sam/colcon_ws/install/sam_bot_description/share/sam_bot_description/environment/path.sh
+[1.489s] -- Installing: /home/sam/colcon_ws/install/sam_bot_description/share/sam_bot_description/environment/path.dsv
+[1.489s] -- Installing: /home/sam/colcon_ws/install/sam_bot_description/share/sam_bot_description/local_setup.bash
+[1.489s] -- Installing: /home/sam/colcon_ws/install/sam_bot_description/share/sam_bot_description/local_setup.sh
+[1.489s] -- Installing: /home/sam/colcon_ws/install/sam_bot_description/share/sam_bot_description/local_setup.zsh
+[1.489s] -- Installing: /home/sam/colcon_ws/install/sam_bot_description/share/sam_bot_description/local_setup.dsv
+[1.489s] -- Installing: /home/sam/colcon_ws/install/sam_bot_description/share/sam_bot_description/package.dsv
+[1.490s] -- Installing: /home/sam/colcon_ws/install/sam_bot_description/share/ament_index/resource_index/packages/sam_bot_description
+[1.490s] -- Installing: /home/sam/colcon_ws/install/sam_bot_description/share/sam_bot_description/cmake/sam_bot_descriptionConfig.cmake
+[1.490s] -- Installing: /home/sam/colcon_ws/install/sam_bot_description/share/sam_bot_description/cmake/sam_bot_descriptionConfig-version.cmake
+[1.490s] -- Installing: /home/sam/colcon_ws/install/sam_bot_description/share/sam_bot_description/package.xml
+[1.494s] Invoked command in '/home/sam/colcon_ws/build/sam_bot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/sam/colcon_ws/build/sam_bot_description

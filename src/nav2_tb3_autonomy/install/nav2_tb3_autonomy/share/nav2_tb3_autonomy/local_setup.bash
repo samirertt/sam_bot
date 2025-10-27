@@ -1,0 +1,1 @@
+/home/sam/colcon_ws/src/nav2_tb3_autonomy/build/nav2_tb3_autonomy/ament_cmake_environment_hooks/local_setup.bash

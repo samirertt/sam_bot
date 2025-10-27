@@ -1,0 +1,10 @@
+/home/sam/colcon_ws/build/nav2_tb3_autonomy/CMakeFiles/uninstall.dir
+/home/sam/colcon_ws/build/nav2_tb3_autonomy/CMakeFiles/nav2_tb3_autonomy_uninstall.dir
+/home/sam/colcon_ws/build/nav2_tb3_autonomy/CMakeFiles/autonomy_node.dir
+/home/sam/colcon_ws/build/nav2_tb3_autonomy/CMakeFiles/test.dir
+/home/sam/colcon_ws/build/nav2_tb3_autonomy/CMakeFiles/edit_cache.dir
+/home/sam/colcon_ws/build/nav2_tb3_autonomy/CMakeFiles/rebuild_cache.dir
+/home/sam/colcon_ws/build/nav2_tb3_autonomy/CMakeFiles/list_install_components.dir
+/home/sam/colcon_ws/build/nav2_tb3_autonomy/CMakeFiles/install.dir
+/home/sam/colcon_ws/build/nav2_tb3_autonomy/CMakeFiles/install/local.dir
+/home/sam/colcon_ws/build/nav2_tb3_autonomy/CMakeFiles/install/strip.dir

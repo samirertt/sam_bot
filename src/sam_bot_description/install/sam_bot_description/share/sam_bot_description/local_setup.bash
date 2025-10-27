@@ -1,0 +1,1 @@
+/home/sam/colcon_ws/src/sam_bot_description/build/sam_bot_description/ament_cmake_environment_hooks/local_setup.bash

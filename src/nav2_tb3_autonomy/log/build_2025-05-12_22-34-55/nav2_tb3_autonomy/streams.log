@@ -1,0 +1,29 @@
+[0.007s] Invoking command in '/home/sam/colcon_ws/src/nav2_tb3_autonomy/build/nav2_tb3_autonomy': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/sam/colcon_ws/src/nav2_tb3_autonomy/build/nav2_tb3_autonomy -- -j20 -l20
+[0.039s] [35m[1mConsolidate compiler generated dependencies of target autonomy_node[0m
+[0.053s] [100%] Built target autonomy_node
+[0.061s] Invoked command in '/home/sam/colcon_ws/src/nav2_tb3_autonomy/build/nav2_tb3_autonomy' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/sam/colcon_ws/src/nav2_tb3_autonomy/build/nav2_tb3_autonomy -- -j20 -l20
+[0.072s] Invoking command in '/home/sam/colcon_ws/src/nav2_tb3_autonomy/build/nav2_tb3_autonomy': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/sam/colcon_ws/src/nav2_tb3_autonomy/build/nav2_tb3_autonomy
+[0.079s] -- Install configuration: ""
+[0.079s] -- Up-to-date: /home/sam/colcon_ws/src/nav2_tb3_autonomy/install/nav2_tb3_autonomy/share/nav2_tb3_autonomy/bt_xml
+[0.079s] -- Up-to-date: /home/sam/colcon_ws/src/nav2_tb3_autonomy/install/nav2_tb3_autonomy/share/nav2_tb3_autonomy/bt_xml/tree.xml
+[0.079s] -- Up-to-date: /home/sam/colcon_ws/src/nav2_tb3_autonomy/install/nav2_tb3_autonomy/share/nav2_tb3_autonomy/launch
+[0.079s] -- Up-to-date: /home/sam/colcon_ws/src/nav2_tb3_autonomy/install/nav2_tb3_autonomy/share/nav2_tb3_autonomy/launch/autonomy.launch.py
+[0.080s] -- Up-to-date: /home/sam/colcon_ws/src/nav2_tb3_autonomy/install/nav2_tb3_autonomy/share/nav2_tb3_autonomy/config
+[0.080s] -- Up-to-date: /home/sam/colcon_ws/src/nav2_tb3_autonomy/install/nav2_tb3_autonomy/share/nav2_tb3_autonomy/config/sim_house_locations.yaml
+[0.080s] -- Up-to-date: /home/sam/colcon_ws/src/nav2_tb3_autonomy/install/nav2_tb3_autonomy/lib/nav2_tb3_autonomy/autonomy_node
+[0.080s] -- Up-to-date: /home/sam/colcon_ws/src/nav2_tb3_autonomy/install/nav2_tb3_autonomy/share/ament_index/resource_index/package_run_dependencies/nav2_tb3_autonomy
+[0.080s] -- Up-to-date: /home/sam/colcon_ws/src/nav2_tb3_autonomy/install/nav2_tb3_autonomy/share/ament_index/resource_index/parent_prefix_path/nav2_tb3_autonomy
+[0.080s] -- Up-to-date: /home/sam/colcon_ws/src/nav2_tb3_autonomy/install/nav2_tb3_autonomy/share/nav2_tb3_autonomy/environment/ament_prefix_path.sh
+[0.080s] -- Up-to-date: /home/sam/colcon_ws/src/nav2_tb3_autonomy/install/nav2_tb3_autonomy/share/nav2_tb3_autonomy/environment/ament_prefix_path.dsv
+[0.080s] -- Up-to-date: /home/sam/colcon_ws/src/nav2_tb3_autonomy/install/nav2_tb3_autonomy/share/nav2_tb3_autonomy/environment/path.sh
+[0.080s] -- Up-to-date: /home/sam/colcon_ws/src/nav2_tb3_autonomy/install/nav2_tb3_autonomy/share/nav2_tb3_autonomy/environment/path.dsv
+[0.080s] -- Up-to-date: /home/sam/colcon_ws/src/nav2_tb3_autonomy/install/nav2_tb3_autonomy/share/nav2_tb3_autonomy/local_setup.bash
+[0.080s] -- Up-to-date: /home/sam/colcon_ws/src/nav2_tb3_autonomy/install/nav2_tb3_autonomy/share/nav2_tb3_autonomy/local_setup.sh
+[0.080s] -- Up-to-date: /home/sam/colcon_ws/src/nav2_tb3_autonomy/install/nav2_tb3_autonomy/share/nav2_tb3_autonomy/local_setup.zsh
+[0.080s] -- Up-to-date: /home/sam/colcon_ws/src/nav2_tb3_autonomy/install/nav2_tb3_autonomy/share/nav2_tb3_autonomy/local_setup.dsv
+[0.080s] -- Installing: /home/sam/colcon_ws/src/nav2_tb3_autonomy/install/nav2_tb3_autonomy/share/nav2_tb3_autonomy/package.dsv
+[0.080s] -- Up-to-date: /home/sam/colcon_ws/src/nav2_tb3_autonomy/install/nav2_tb3_autonomy/share/ament_index/resource_index/packages/nav2_tb3_autonomy
+[0.081s] -- Up-to-date: /home/sam/colcon_ws/src/nav2_tb3_autonomy/install/nav2_tb3_autonomy/share/nav2_tb3_autonomy/cmake/nav2_tb3_autonomyConfig.cmake
+[0.081s] -- Up-to-date: /home/sam/colcon_ws/src/nav2_tb3_autonomy/install/nav2_tb3_autonomy/share/nav2_tb3_autonomy/cmake/nav2_tb3_autonomyConfig-version.cmake
+[0.081s] -- Up-to-date: /home/sam/colcon_ws/src/nav2_tb3_autonomy/install/nav2_tb3_autonomy/share/nav2_tb3_autonomy/package.xml
+[0.082s] Invoked command in '/home/sam/colcon_ws/src/nav2_tb3_autonomy/build/nav2_tb3_autonomy' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/sam/colcon_ws/src/nav2_tb3_autonomy/build/nav2_tb3_autonomy

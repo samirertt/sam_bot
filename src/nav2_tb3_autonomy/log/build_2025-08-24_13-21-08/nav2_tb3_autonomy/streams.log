@@ -1,0 +1,68 @@
+[0.008s] Invoking command in '/home/sam/colcon_ws/src/nav2_tb3_autonomy/build/nav2_tb3_autonomy': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/sam/colcon_ws/install/dronos_ika:/opt/ros/humble /usr/bin/cmake --build /home/sam/colcon_ws/src/nav2_tb3_autonomy/build/nav2_tb3_autonomy -- -j20 -l20
+[0.026s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.112s] -- Found rclcpp: 16.0.14 (/opt/ros/humble/share/rclcpp/cmake)
+[0.127s] -- Found rosidl_generator_c: 3.1.7 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.128s] -- Found rosidl_adapter: 3.1.7 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.131s] -- Found rosidl_generator_cpp: 3.1.7 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.136s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.142s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.159s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.160s] -- Found rmw_cyclonedds_cpp: 1.3.4 (/opt/ros/humble/share/rmw_cyclonedds_cpp/cmake)
+[0.169s] -- Using RMW implementation 'rmw_cyclonedds_cpp' as default
+[0.192s] -- Found rclcpp_action: 16.0.14 (/opt/ros/humble/share/rclcpp_action/cmake)
+[0.207s] -- Found nav2_msgs: 1.1.18 (/opt/ros/humble/share/nav2_msgs/cmake)
+[0.233s] -- Found tf2: 0.25.16 (/opt/ros/humble/share/tf2/cmake)
+[0.235s] -- Found tf2_geometry_msgs: 0.25.16 (/opt/ros/humble/share/tf2_geometry_msgs/cmake)
+[0.236s] -- Found eigen3_cmake_module: 0.1.1 (/opt/ros/humble/share/eigen3_cmake_module/cmake)
+[0.237s] -- Ensuring Eigen3 include directory is part of orocos-kdl CMake target
+[0.262s] -- Found ament_lint_auto: 0.12.14 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.319s] -- Added test 'copyright' to check source files copyright and LICENSE
+[0.323s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[0.323s] -- Configured cppcheck include dirs: /home/sam/colcon_ws/src/nav2_tb3_autonomy/include
+[0.323s] -- Configured cppcheck exclude dirs and/or files: 
+[0.327s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[0.327s] -- Configured cpplint exclude dirs and/or files: 
+[0.328s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.329s] -- Added test 'lint_cmake' to check CMake code style
+[0.329s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[0.333s] -- Added test 'uncrustify' to check C / C++ code style
+[0.334s] -- Configured uncrustify additional arguments: 
+[0.334s] -- Added test 'xmllint' to check XML markup files
+[0.335s] -- Configuring done
+[0.341s] -- Generating done
+[0.344s] -- Build files have been written to: /home/sam/colcon_ws/src/nav2_tb3_autonomy/build/nav2_tb3_autonomy
+[0.365s] [35m[1mConsolidate compiler generated dependencies of target autonomy_node[0m
+[0.381s] [ 33%] [32mBuilding CXX object CMakeFiles/autonomy_node.dir/src/autonomy_node.cpp.o[0m
+[0.381s] [ 66%] [32mBuilding CXX object CMakeFiles/autonomy_node.dir/src/navigation_behaviors.cpp.o[0m
+[2.938s] [100%] [32m[1mLinking CXX executable autonomy_node[0m
+[3.085s] [100%] Built target autonomy_node
+[3.091s] Invoked command in '/home/sam/colcon_ws/src/nav2_tb3_autonomy/build/nav2_tb3_autonomy' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/sam/colcon_ws/install/dronos_ika:/opt/ros/humble /usr/bin/cmake --build /home/sam/colcon_ws/src/nav2_tb3_autonomy/build/nav2_tb3_autonomy -- -j20 -l20
+[3.100s] Invoking command in '/home/sam/colcon_ws/src/nav2_tb3_autonomy/build/nav2_tb3_autonomy': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/sam/colcon_ws/install/dronos_ika:/opt/ros/humble /usr/bin/cmake --install /home/sam/colcon_ws/src/nav2_tb3_autonomy/build/nav2_tb3_autonomy
+[3.109s] -- Install configuration: ""
+[3.109s] -- Up-to-date: /home/sam/colcon_ws/src/nav2_tb3_autonomy/install/nav2_tb3_autonomy/share/nav2_tb3_autonomy/bt_xml
+[3.109s] -- Up-to-date: /home/sam/colcon_ws/src/nav2_tb3_autonomy/install/nav2_tb3_autonomy/share/nav2_tb3_autonomy/bt_xml/tree.xml
+[3.109s] -- Up-to-date: /home/sam/colcon_ws/src/nav2_tb3_autonomy/install/nav2_tb3_autonomy/share/nav2_tb3_autonomy/launch
+[3.109s] -- Up-to-date: /home/sam/colcon_ws/src/nav2_tb3_autonomy/install/nav2_tb3_autonomy/share/nav2_tb3_autonomy/launch/autonomy.launch.py
+[3.109s] -- Installing: /home/sam/colcon_ws/src/nav2_tb3_autonomy/install/nav2_tb3_autonomy/share/nav2_tb3_autonomy/launch/nav2.launch.py
+[3.109s] -- Installing: /home/sam/colcon_ws/src/nav2_tb3_autonomy/install/nav2_tb3_autonomy/share/nav2_tb3_autonomy/launch/__pycache__
+[3.109s] -- Installing: /home/sam/colcon_ws/src/nav2_tb3_autonomy/install/nav2_tb3_autonomy/share/nav2_tb3_autonomy/launch/__pycache__/autonomy.launch.cpython-310.pyc
+[3.109s] -- Up-to-date: /home/sam/colcon_ws/src/nav2_tb3_autonomy/install/nav2_tb3_autonomy/share/nav2_tb3_autonomy/config
+[3.110s] -- Up-to-date: /home/sam/colcon_ws/src/nav2_tb3_autonomy/install/nav2_tb3_autonomy/share/nav2_tb3_autonomy/config/sim_house_locations.yaml
+[3.110s] -- Installing: /home/sam/colcon_ws/src/nav2_tb3_autonomy/install/nav2_tb3_autonomy/lib/nav2_tb3_autonomy/autonomy_node
+[3.112s] -- Set runtime path of "/home/sam/colcon_ws/src/nav2_tb3_autonomy/install/nav2_tb3_autonomy/lib/nav2_tb3_autonomy/autonomy_node" to ""
+[3.112s] -- Up-to-date: /home/sam/colcon_ws/src/nav2_tb3_autonomy/install/nav2_tb3_autonomy/share/ament_index/resource_index/package_run_dependencies/nav2_tb3_autonomy
+[3.112s] -- Installing: /home/sam/colcon_ws/src/nav2_tb3_autonomy/install/nav2_tb3_autonomy/share/ament_index/resource_index/parent_prefix_path/nav2_tb3_autonomy
+[3.112s] -- Installing: /home/sam/colcon_ws/src/nav2_tb3_autonomy/install/nav2_tb3_autonomy/share/nav2_tb3_autonomy/environment/ament_prefix_path.sh
+[3.112s] -- Installing: /home/sam/colcon_ws/src/nav2_tb3_autonomy/install/nav2_tb3_autonomy/share/nav2_tb3_autonomy/environment/ament_prefix_path.dsv
+[3.113s] -- Installing: /home/sam/colcon_ws/src/nav2_tb3_autonomy/install/nav2_tb3_autonomy/share/nav2_tb3_autonomy/environment/path.sh
+[3.113s] -- Installing: /home/sam/colcon_ws/src/nav2_tb3_autonomy/install/nav2_tb3_autonomy/share/nav2_tb3_autonomy/environment/path.dsv
+[3.113s] -- Up-to-date: /home/sam/colcon_ws/src/nav2_tb3_autonomy/install/nav2_tb3_autonomy/share/nav2_tb3_autonomy/local_setup.bash
+[3.113s] -- Up-to-date: /home/sam/colcon_ws/src/nav2_tb3_autonomy/install/nav2_tb3_autonomy/share/nav2_tb3_autonomy/local_setup.sh
+[3.113s] -- Up-to-date: /home/sam/colcon_ws/src/nav2_tb3_autonomy/install/nav2_tb3_autonomy/share/nav2_tb3_autonomy/local_setup.zsh
+[3.113s] -- Installing: /home/sam/colcon_ws/src/nav2_tb3_autonomy/install/nav2_tb3_autonomy/share/nav2_tb3_autonomy/local_setup.dsv
+[3.113s] -- Installing: /home/sam/colcon_ws/src/nav2_tb3_autonomy/install/nav2_tb3_autonomy/share/nav2_tb3_autonomy/package.dsv
+[3.113s] -- Up-to-date: /home/sam/colcon_ws/src/nav2_tb3_autonomy/install/nav2_tb3_autonomy/share/ament_index/resource_index/packages/nav2_tb3_autonomy
+[3.113s] -- Up-to-date: /home/sam/colcon_ws/src/nav2_tb3_autonomy/install/nav2_tb3_autonomy/share/nav2_tb3_autonomy/cmake/nav2_tb3_autonomyConfig.cmake
+[3.113s] -- Up-to-date: /home/sam/colcon_ws/src/nav2_tb3_autonomy/install/nav2_tb3_autonomy/share/nav2_tb3_autonomy/cmake/nav2_tb3_autonomyConfig-version.cmake
+[3.114s] -- Up-to-date: /home/sam/colcon_ws/src/nav2_tb3_autonomy/install/nav2_tb3_autonomy/share/nav2_tb3_autonomy/package.xml
+[3.116s] Invoked command in '/home/sam/colcon_ws/src/nav2_tb3_autonomy/build/nav2_tb3_autonomy' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/sam/colcon_ws/install/dronos_ika:/opt/ros/humble /usr/bin/cmake --install /home/sam/colcon_ws/src/nav2_tb3_autonomy/build/nav2_tb3_autonomy
