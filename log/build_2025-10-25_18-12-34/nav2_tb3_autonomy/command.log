@@ -1,6 +1,0 @@
-Invoking command in '/home/sam/colcon_ws/build/nav2_tb3_autonomy': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/sam/colcon_ws/src/nav2_tb3_autonomy -DCMAKE_INSTALL_PREFIX=/home/sam/colcon_ws/install/nav2_tb3_autonomy
-Invoked command in '/home/sam/colcon_ws/build/nav2_tb3_autonomy' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/sam/colcon_ws/src/nav2_tb3_autonomy -DCMAKE_INSTALL_PREFIX=/home/sam/colcon_ws/install/nav2_tb3_autonomy
-Invoking command in '/home/sam/colcon_ws/build/nav2_tb3_autonomy': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/sam/colcon_ws/build/nav2_tb3_autonomy -- -j20 -l20
-Invoked command in '/home/sam/colcon_ws/build/nav2_tb3_autonomy' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/sam/colcon_ws/build/nav2_tb3_autonomy -- -j20 -l20
-Invoking command in '/home/sam/colcon_ws/build/nav2_tb3_autonomy': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/sam/colcon_ws/build/nav2_tb3_autonomy
-Invoked command in '/home/sam/colcon_ws/build/nav2_tb3_autonomy' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/sam/colcon_ws/build/nav2_tb3_autonomy
